@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.contentformula.com/blog/sharepoint-migration-paths/'
 title: SharePoint migration paths
-datePublished: '2015-10-22T17:31:17.888Z'
-dateModified: '2015-10-22T17:30:47.565Z'
+datePublished: '2015-10-22T18:11:35.219Z'
+dateModified: '2015-10-22T17:31:17.888Z'
 sourcePath: _posts/2015-10-22-sharepoint-migration-paths.md
 published: true
 inFeed: true
