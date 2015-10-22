@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-10-22T18:15:35.521Z'
+datePublished: '2015-10-22T18:18:49.394Z'
 publisher:
   domain: ''
   name: ''
 title: SharePoint migration paths
-dateModified: '2015-10-22T18:10:14.138Z'
+dateModified: '2015-10-22T18:15:35.521Z'
 sourcePath: _posts/2015-10-22-sharepoint-migration-paths.md
 published: true
 inFeed: true
