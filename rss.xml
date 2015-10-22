@@ -4,7 +4,7 @@
         <description><![CDATA[Limbus]]></description>
         <link>https://thegrid.ai/limbus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 18:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 18:32:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/limbus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to spot your intranet is on its last legs]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/limbus/how-to-spot-your-intranet-is-on-its-last-legs/index.html</link>
             <guid isPermaLink="false">b6561ab0-ae2d-4bcf-933f-502429723b0f</guid>
             <pubDate>Thu, 22 Oct 2015 17:47:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SharePoint migration paths]]></title>
-            <description><![CDATA[<article><h1>SharePoint migration paths</h1><p>Most people are eager to update to the latest version of their favourite app, but it's just not possible to press an 'update' button with SharePoint. The wise intranet manager will have a certain amount of trepidation as they embark along the SharePoint migration path.</p><img src="http://www.contentformula.com/blog/wp-content/uploads/2014/01/jungle-path.jpg"></article>]]></description>
-            <link>http://www.contentformula.com/blog/sharepoint-migration-paths/</link>
-            <guid isPermaLink="false">2a5bfabf-8c51-444b-9d22-d8c3cb11cc2a</guid>
-            <pubDate>Thu, 22 Oct 2015 18:11:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
