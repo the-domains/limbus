@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Limbus]]></title>
+        <description><![CDATA[Limbus]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 22 Oct 2015 18:38:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intranet foundations - purpose, strategy, design, and planning the roll-out]]></title>
+            <description><![CDATA[<article><h1>Intranet foundations - purpose, strategy, design, and planning the roll-out</h1><p>Too many intranet 'projects' focus on the software and features. I'm not even blaming the project manager or the IT department here - stakeholders in the business are just as culpable, as they often believe that their needs are obvious, and that everyone agrees what the intranet must deliver over the next quarter.</p><img src="http://kilobox.net/wp-content/uploads/2015/10/capability-planning.png"></article>]]></description>
+            <link>http://kilobox.net/4831/intranet-foundations-purpose-strategy-design-and-planning-the-roll-out/</link>
+            <guid isPermaLink="false">ffeeecdc-541f-4015-97fd-a2643503a241</guid>
+            <pubDate>Thu, 22 Oct 2015 18:37:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
