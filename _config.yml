@@ -1,8 +1,20 @@
-layout_spectrum: 0.7634408
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4731183
 color:
   saturation: 0.5824373
-  brandStrength: 0.4964158
-  lightness: 0.4336918
+  lightness: 0.6236559
+  brandStrength: 0.8189964
   brandColors:
     - '#F2EBDF'
     - '#282727'
@@ -10,5 +22,5 @@ color:
     - '#C6BDB4'
     - '#6D5D42'
   rhythmicContrast: 0.5806451
-typography_spectrum: 0.4731183
+layout_spectrum: 0.9802867
 name: Limbus
