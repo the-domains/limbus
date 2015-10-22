@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4731183
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5824373
-  lightness: 0.6236559
+  saturation: 0.8763441
+  lightness: 0.8154122
   brandStrength: 0.8189964
   brandColors:
-    - '#F2EBDF'
-    - '#282727'
-    - '#B47E6E'
-    - '#C6BDB4'
-    - '#6D5D42'
-  rhythmicContrast: 0.5806451
+    - '#1E0D0C'
+    - '#FFFFFB'
+    - '#FFA253'
+    - '#42CE5D'
+    - '#03FFF3'
+  rhythmicContrast: 0.7204301
+typography_spectrum: 0.4731183
 layout_spectrum: 0.9802867
 name: Limbus
