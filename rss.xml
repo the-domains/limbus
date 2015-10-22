@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Limbus]]></title>
         <description><![CDATA[Limbus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/limbus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 18:38:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 22 Oct 2015 18:38:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/limbus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intranet Now 2015 wrap-up]]></title>
+            <description><![CDATA[<article><h1>Intranet Now 2015 wrap-up</h1><p>So we did it - we put on our second intranet conference, and again filled the hall with intranet and comms people from across the country and across industries. Brian and I are very pleased, obviously, to have been able to do this for you.</p><img src="http://kilobox.net/wp-content/uploads/2015/10/wedge-et-brian.jpg"></article>]]></description>
+            <link>http://kilobox.net/4821/intranet-now-2015-wrap-up/</link>
+            <guid isPermaLink="false">bebe26d9-7891-46eb-98e0-2be56d53895f</guid>
+            <pubDate>Thu, 22 Oct 2015 18:37:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Intranet foundations - purpose, strategy, design, and planning the roll-out]]></title>
             <description><![CDATA[<article><h1>Intranet foundations - purpose, strategy, design, and planning the roll-out</h1><p>Too many intranet 'projects' focus on the software and features. I'm not even blaming the project manager or the IT department here - stakeholders in the business are just as culpable, as they often believe that their needs are obvious, and that everyone agrees what the intranet must deliver over the next quarter.</p><img src="http://kilobox.net/wp-content/uploads/2015/10/capability-planning.png"></article>]]></description>
