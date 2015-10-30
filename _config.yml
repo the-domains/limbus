@@ -1,3 +1,7 @@
+name: Limbus
+favicon: null
+layout_spectrum: 0.9802867
+typography_spectrum: 0.4731183
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: 'Comms, engagement, intranets - the whole workplace thing'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8763441
-  lightness: 0.8154122
-  brandStrength: 0.8189964
   brandColors:
     - '#1E0D0C'
     - '#FFFFFB'
     - '#FFA253'
     - '#42CE5D'
     - '#03FFF3'
+  brandStrength: 0.8189964
+  lightness: 0.8154122
+  saturation: 0.8763441
   rhythmicContrast: 0.7204301
-typography_spectrum: 0.4731183
-layout_spectrum: 0.9802867
-name: Limbus
+purpose: []
